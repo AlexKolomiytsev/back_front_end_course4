@@ -1,1 +1,6 @@
 For editing and running the server, install Python 3.5.0 https://www.python.org/downloads/
+NB! Enable option "Add Python to environment variables"
+To run the server. At command line:
+>>>cd "path_to_the_folder"
+>>>python manage.py runserver
+
