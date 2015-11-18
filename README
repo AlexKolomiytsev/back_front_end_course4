@@ -4,3 +4,7 @@ To run the server. At command line:
 >>>cd "path_to_the_folder"
 >>>python manage.py runserver
 
+Super User
+login: admin
+email: admin@example.com
+password: 1111
